@@ -1,0 +1,21 @@
+{
+  "name": "travel_planner",
+  "description": "A tool to help plan trips and get hotel recommendations.",
+  "tools": [
+    {
+      "name": "getHotelRecommendations",
+      "description": "Get hotel recommendations for a given city and number of guests.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "Natural language query for hotel recommendations, e.g., 'Hey, I want to plan a trip with 5 of my friends. Give me hotel recommendations in London.'"
+          }
+        },
+        "required": ["query"]
+      },
+      "server_url": "http://127.0.0.1:8000/getHotelRecommendations"
+    }
+  ]
+} 
