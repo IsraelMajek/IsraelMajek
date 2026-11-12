@@ -1,5 +1,4 @@
-# IsraelMajek
-# Hey, I'm [Israe] 👋
+# Hey, I'm Israel👋
 
 I'm Computer Science student at the **University of Alberta**. I build software across backend engineering, full-stack development, and AI/ML, with a focus on solving real-world engineering problems.
 
