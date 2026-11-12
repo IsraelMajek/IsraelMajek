@@ -8,4 +8,4 @@ I primarily work with **Python, Java, C++, JavaScript, TypeScript, and React**, 
 
 Currently exploring **AI/ML, LLM applications, distributed systems, and scalable software architecture**.
 
-🌐 [LinkedIn](https://www.linkedin.com/in/israelmajek/) · 📧 [Email](Majekisrael@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/israelmajek/) · 📧 [majekisrael@gmail.com](Majekisrael@gmail.com)
